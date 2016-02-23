@@ -1,2 +1,2 @@
 # uSPIN
-single cell ordering method
+An integrated single cell ordering pipeline
